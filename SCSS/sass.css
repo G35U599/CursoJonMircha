@@ -1,0 +1,10 @@
+:root {
+  --yellow-color: #f7df1e;
+  --dark-color: #222;
+}
+
+.cards {
+  border: thin solid var(--dark-color);
+  margin-top: 1rem;
+  padding: 1rem;
+}/*# sourceMappingURL=sass.css.map */

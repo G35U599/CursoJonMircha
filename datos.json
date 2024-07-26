@@ -1,0 +1,16 @@
+{
+    "cadena": "jesus",
+    "numero": "24",
+    "booleano": "true",
+    "arreglo": [
+        "correr",
+        "programar",
+        "cocinar"
+    ],
+    "objeto": {
+        "twitter": "@jesusefp",
+        "email": "jesusefp99@gamil.com"
+    },
+    "nullo": null
+}
+

@@ -1,0 +1,27 @@
+{
+    "liveSassCompile.settings.compileOnWatch": false,
+    "liveSassCompile.settings.watchOnLaunch": false,
+    "liveSassCompile.settings.useNewCompiler": true,
+    "liveSassCompile.settings.showOutputWindowOn": "Debug",
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": /*"/themes/custom/fciris/css"*/ "../css/",
+            "savePathReplacementPairs": null
+        }
+    ],
+
+    "liveSassCompile.settings.includeItems": [
+        "../scss/sass.scss",
+        //"/themes/custom/fciris/scss/style.scss",
+    ],
+
+    "liveSassCompile.settings.partialsList": [
+        "../scss/"
+       // "/themes/custom/fciris/scss/*/*",
+    ],
+    "twiggy.framework": "ignore",
+    "git.ignoreLimitWarning": true
+    
+}
